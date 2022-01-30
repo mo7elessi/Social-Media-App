@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "752502135288",
+    "project_id": "social-app-3c3e0",
+    "storage_bucket": "social-app-3c3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752502135288:android:620d22dec2281685c29e0d",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752502135288-9u0hbb8ia4bhqetk7gq3bh5h77c8sje9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDo9xAeMUkn7Pt0q17xmNaOaHhohNJj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752502135288-9u0hbb8ia4bhqetk7gq3bh5h77c8sje9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752502135288-0u1g8k3go9i2b1phhaufggrjvm59hf79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soicalApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752502135288:android:873340eb668e1066c29e0d",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752502135288-9u0hbb8ia4bhqetk7gq3bh5h77c8sje9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDo9xAeMUkn7Pt0q17xmNaOaHhohNJj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752502135288-9u0hbb8ia4bhqetk7gq3bh5h77c8sje9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752502135288-0u1g8k3go9i2b1phhaufggrjvm59hf79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soicalApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
